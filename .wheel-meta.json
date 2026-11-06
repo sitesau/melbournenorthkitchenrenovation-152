@@ -1,0 +1,22 @@
+{
+  "wheel_id": 775,
+  "structure": "umbrella",
+  "slug": "melbournenorthkitchenrenovation-152",
+  "project": "kitchen-renovations-melbourne-north-before-you-start-2f35b726c3",
+  "parent_t1_ref": "melbournenorthkitchenrenovation-011",
+  "node_role": "buffer",
+  "money_target": "melbournenorthkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne north before you start",
+  "intended_url": "http://kitchen-renovations-melbourne-north-before-you-start-2f35b726c3.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "75e3c312f2005f32",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/kitchen-renovations-melbourne-north-011/",
+      "anchor": "https://sites-e470-1.web.app/kitchen-renovations-melbourne-north-011/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
